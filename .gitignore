@@ -1,0 +1,15 @@
+__pycache__
+__pycache__/*
+.vscode
+.vscode/*
+csv_by_trial
+csv_by_trial/*
+tensorflow_gpu
+tensorflow_gpu/*
+files
+files/*
+images
+images/*
+models
+models/
+requirements1.txt
